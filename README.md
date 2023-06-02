@@ -1,5 +1,12 @@
 # Proyecto Final de IA: Análisis de Propiedades del Suelo y Absorbancia
 
+## Video Demostrativo
+
+https://youtu.be/YIBE94VrF30
+
+¡Mira mi video explicativo para obtener una visión general de este proyecto!
+
+
 ## Introducción
 En este proyecto final de IA, se realizó un análisis exhaustivo de las propiedades del suelo y la absorbancia en diferentes longitudes de onda para el dataset 'NIRSdata.csv'. El objetivo principal fue comprender cómo las características del suelo, como pH, Al, Fe, Mg, Mn, Cu, B, entre otros minerales, influyen en la fertilización del suelo, guiada por el tipo de cultivo y la ubicación geográfica (Departamento).
 
