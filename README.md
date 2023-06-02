@@ -1,3 +1,7 @@
+William Andrés Gómez Roa
+
+Bioingeniería - Ciencia de Datos
+
 # Proyecto Final de IA: Análisis de Propiedades del Suelo y Absorbancia
 
 ## Video Demostrativo
